@@ -1,0 +1,4 @@
+#AuthType Basic
+#AuthName "Members Only"
+#AuthUserFile /var/www/pickmyclass/dashboad_uwe/.htpassword
+#require valid-user

@@ -1,0 +1,440 @@
+
+@media only screen and (max-width: 1200px) {
+  .logo img{
+    width: 160px;
+  }
+  .inner_item_review p{
+    height: 185px;
+  }
+  .right_section_review p{
+    height: auto;
+  }
+  .sec_four_h1{
+    font-size: 45.75px;
+  }
+  .item svg{
+      padding: 8px;
+      width: 100px;
+  }
+  .section_two p{
+    font-size: 25px;
+  }
+  .section_two h1{
+    font-size: 50px;
+  }
+  .heading_1 h1{
+    font-size: 45px;
+  }
+  .heading_1 p{
+    font-size: 24px;
+  }
+  .course_desc p:first-child{
+    font-size: 16px;
+  }
+  .course_desc p:nth-child(2){
+    font-size: 14px;
+  }
+  .right_section p:first-child{
+    font-size: 18px;
+  }
+  .right_section p:nth-child(2){
+    font-size: 16px;
+  }
+  .left_section img{
+    margin-left: 10px;
+  }
+} 
+@media only screen and (max-width: 1199px){
+  .section_one h1 {
+      font-size: 50px;
+  }
+}
+@media only screen and (max-width: 991px) {
+  .logo img {
+    width: 150px;
+  }
+  .inner_item_review p {
+    height: 165px;
+  }
+  .right_section_review p{
+    height: auto;
+  }
+  .section_four_top {
+    display: block;
+  }
+  .section_four_top img {
+    width: 50%;
+  }
+  .section_four_top{
+    text-align: center;
+  }
+  .section_four_sub {
+    display: block;
+    text-align: center;
+  }
+  .section_one h1{
+    font-size: 35px;
+  }
+  .section_two p{
+    font-size: 18px;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .section_two h1{
+    font-size: 40px;
+  }
+  .heading_1 h1{
+    font-size: 35px;
+  }
+  .heading_1 p{
+    font-size: 20px;
+  }
+  .course_title p:first-child{
+    font-size: 18px;
+  }
+  .course_desc p:first-child{
+    font-size: 16px;
+  }
+  .course_desc p:nth-child(2){
+    font-size: 12px;
+  }
+  .sec_four_h1{
+    font-size: 35px;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  .right_section p:first-child{
+    font-size: 16px;
+  }
+  .right_section p:nth-child(2){
+    font-size: 12px;
+  }
+  .section_five h1{
+    font-size: 30px;
+  }
+  .section_five p{
+    font-size: 16px;
+  }
+  .section_six h1{
+    font-size: 30px;
+  }
+  ..section_six p{
+    font-size: 16px;
+  }
+  .section_six p{
+    font-size: 14px;
+  }
+  .right_section_review p:first-child{
+    font-size: 10px;
+  }
+  .section_seven h1{
+    font-size: 30px;
+  }
+  .section_seven p{
+    font-size: 24px;
+  }
+  .tab_view{
+    display: block;
+  }
+  .desk_view_tab{
+    display: none;
+  }
+}
+@media only screen and (max-width: 900px) {
+  .inner_item_review p{
+      height:100px
+  }
+  .right_section_review p{
+    height: auto;
+  }
+}
+@media only screen and (max-width: 767px) {
+  .section_seven p{
+    margin-bottom: 10px;
+  }
+  .section_seven h1{
+    margin-bottom: 5px;
+  }
+  .logo img{
+    width: 120px;
+  }
+  .section_four_top{
+    display: block;
+  }
+  .item svg{
+      padding: 10px;
+  }
+  .section_one h1{
+    color: #FFF;
+    text-align: center;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+  }
+  .section_two p{
+    color: #FFF;
+    text-align: center;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 17px; /* 170% */
+    padding-top: 10px;
+  }
+  .section_two h1{
+    color: #FFF;
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+  .heading_1 h1{
+    color: #FFF;
+    text-align: center;
+    font-family: Outfit;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 21.775px; /* 120.974% */
+    margin-bottom: 10px;
+  }
+  .heading_1 p{
+    color: #FFF;
+    text-align: center;
+    font-family: Outfit;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 17px; /* 170% */
+    margin-bottom: 0;
+  }
+  .course_title p:first-child{
+    color: #FFE455;
+    text-align: center;
+    leading-trim: both;
+    text-edge: cap;
+    font-family: Outfit;
+    font-size: 15.154px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+  }
+  .course_desc p:first-child{
+    color: #FFF;
+    text-align: left;
+    leading-trim: both;
+    text-edge: cap;
+    font-family: Outfit;
+    font-size: 18.185px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+  }
+  .course_desc p:nth-child(2){
+    color: #FFF;
+    text-align: left;
+    leading-trim: both;
+    text-edge: cap;
+    font-family: Outfit;
+    font-size: 12.123px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-top: 5px;
+  }
+  .section_four_top{
+    text-align: center;
+  }
+  .section_four_top img{
+    width: 70%;
+  }
+  .sec_four_h1{
+    color: #FFF;
+    text-align: center;
+    leading-trim: both;
+    text-edge: cap;
+    font-family: Outfit;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 28px; /* 127.273% */
+  }
+  .section_four_sub{
+    display: block;
+    text-align: center;
+  }
+  .right_section p:first-child{
+    color: #FFF;
+font-family: Outfit;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: 171%; /* 34.2px */
+  }
+  .right_section p:nth-child(2){
+    color: #FFF;
+font-family: Outfit;
+font-size: 12px;
+font-style: normal;
+font-weight: 500;
+line-height: 171%; /* 20.52px */
+margin-bottom: 10px;
+  }
+  .section_five h1{
+    color: #FFF;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Outfit;
+    font-size: 14.433px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-transform: capitalize;
+  }
+  .section_five p{
+    color: #FFF;
+    text-align: center;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Outfit;
+    font-size: 8.785px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: capitalize;
+  }
+  .section_six h1{
+    color: #FFE455;
+    text-align: center;
+    leading-trim: both;
+    text-edge: cap;
+    font-family: Outfit;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 21.775px; /* 120.974% */
+    margin-top: 20px;
+  }
+  .section_six p{
+    color: #FFF;
+    text-align: center;
+    font-family: Outfit;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 17px; /* 170% */
+  }
+  .inner_item_review p{
+    color: #FFF;
+    /* font-size: 8.623px; */
+    font-style: normal;
+    font-weight: 400;
+    line-height: 156.5%; /* 13.495px */
+    letter-spacing: 0.172px;
+  }
+  .right_section_review p:first-child{
+    color: #FFF;
+    font-family: Avenir Next;
+    font-size: 7.716px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 156.5%; /* 12.075px */
+    letter-spacing: 0.154px;
+  }
+  .right_section_review p:nth-child(2){
+    color: #FFF;
+    font-family: Avenir Next;
+    font-size: 5.9px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 156.5%; /* 9.234px */
+    letter-spacing: 0.118px;
+  } 
+  .section_seven h1{
+    text-align: center;
+    leading-trim: both;
+    text-edge: cap;
+    font-family: Outfit;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 21.775px; /* 120.974% */
+  }
+  .section_seven p{
+    color: #FFF;
+text-align: center;
+font-family: Outfit;
+font-size: 10px;
+font-style: normal;
+font-weight: 400;
+line-height: 17px; /* 170% */
+  }
+  .section_seven button{
+    padding: 5px 10px;
+    justify-content: center;
+    align-items: center;
+    gap: 3.562px;
+    flex-shrink: 0;
+    border-radius: 2.85px;
+    background: #FFF;
+    color: #3E2D6C;
+    text-align: center;
+    font-family: Avenir Next;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .left_section img{
+    padding: 10;
+  }
+  .mobile_view{
+    display: block;
+  }
+  .desk_view{
+    display: none;
+  }
+  .section_seven{
+    background-size: cover;
+  }
+  .inner_item_mentor{
+    width: 50%;
+    padding: 10px;
+  }
+  .all_course{
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+  body {
+    background: linear-gradient(180deg, #270F3E 0%, #210D33 47.63%, #110717 100%);
+  }
+  .video_content{
+    margin-top: 10px;
+  }
+} 
+@media only screen and (max-width: 575px){
+  .section_seven_inner_div{
+    padding: 0px 30px;
+  }
+  .inner_item_review p{
+    height: 75px;
+  }
+  .right_section_review p{
+    height: auto;
+  }
+}
+@media only screen and (max-width: 500px){
+  .section_one h1 {
+    font-size: 18px;
+  }
+  .section_one h1 span {
+      margin-left: 5px;
+      margin-right: 5px;
+  }
+}
+@media only screen and (max-width: 400px){
+  .section_two p {
+    font-size: 12px;
+  }
+  .heading_1 h1{
+    font-size: 16px;
+  }
+}

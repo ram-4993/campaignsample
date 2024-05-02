@@ -1,0 +1,54 @@
+/* SemiBold */
+@font-face {
+    font-family: 'black';
+    font-style: normal;
+    src: url("../fonts/static/Outfit-Black.ttf") format("opentype");
+  }
+  /* Regular */
+  @font-face {
+    font-family: 'bold';
+    font-style: normal;
+    src: url("../fonts/static/Outfit-Bold.ttf") format("opentype");
+  }
+  /* Medium */
+  @font-face {
+    font-family: 'extrabold';
+    font-style: normal;
+    src: url("../fonts/static/Outfit-ExtraBold.ttf") format("opentype");
+  }
+  /* Bold */
+  @font-face {
+    font-family: 'extralight';
+    font-style: normal;
+    src: url("../fonts/static/Outfit-ExtraLight.ttf") format("opentype");
+  }
+  /* Light */
+  @font-face {
+    font-family: 'light';
+    font-style: normal;
+    src: url("../fonts/static/Outfit-Light.ttf") format("opentype");
+  }
+   /* Light */
+   @font-face {
+    font-family: 'medium';
+    font-style: normal;
+    src: url("../fonts/static/Outfit-Medium.ttf") format("opentype");
+  }
+   /* Light */
+   @font-face {
+    font-family: 'regular';
+    font-style: normal;
+    src: url("../fonts/static/Outfit-Regular.ttf") format("opentype");
+  }
+   /* Light */
+   @font-face {
+    font-family: 'semibold';
+    font-style: normal;
+    src: url("../fonts/static/Outfit-SemiBold.ttf") format("opentype");
+  }
+  /* Light */
+  @font-face {
+    font-family: 'thin';
+    font-style: normal;
+    src: url("../fonts/static/Outfit-Thin.ttf") format("opentype");
+  }

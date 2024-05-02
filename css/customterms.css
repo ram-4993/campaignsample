@@ -1,0 +1,27 @@
+body {
+    font-family: 'regular' !important;
+    background: linear-gradient(180deg, #270F3E 0%, #210D33 47.63%, #110717 100%);
+}
+section.termscontent{
+    margin-top: 50px;
+}
+section.termscontent h1{
+    color: #ffffff;
+    font-size: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+section.termscontent h3{
+    color: #ffffff;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+section.termscontent h4{
+    color: #ffffff;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+section.termscontent p{
+    color: #ffffff;
+    font-size: 16px;
+}
